@@ -13,8 +13,8 @@ public class AI{
     }
 
     private void initializeKnownQuestions() {
-        knownQuestions.add("Cont De Credit");
-        knownQuestions.add("Cont De Debit");
+        knownQuestions.add("cont de credit");
+        knownQuestions.add("cont de debit");
         knownQuestions.add("card");
         knownQuestions.add("împrumut pentru casnic");
         knownQuestions.add("împrumut pentru mașină");
