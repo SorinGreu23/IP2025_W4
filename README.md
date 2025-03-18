@@ -12,3 +12,17 @@ BankEmployee are metoda "reviewResponse", in cadrul acesteia se fac niste verifi
 Metoda privata "isResponseRelevant" are ca scop sa verifice daca pentru fiecare intrebare, raspunsul contine niste cuvinte cheie. Asa verificam daca raspunsul este adecvat.
 
 Componnta AI (Generata cu AI) are ca scop oferirea de raspuns pentru client prin "generateResponse" ce mai apoi este trimit la client si la angajat pentru verificari.
+
+Echipa:
+
+Diagrame:
+Sorin Greu 2E2
+Bogdan Viziru 2E2
+
+Cod cu AI:
+Denis Brezuleanu 2E2
+Mario Gusa 2E2
+
+Cod fara AI:
+Nicu Acasandrei 2E1
+Claudia Iftimoaia 2E1
