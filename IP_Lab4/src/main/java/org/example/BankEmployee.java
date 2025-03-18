@@ -18,4 +18,8 @@ public class BankEmployee extends  Person {
                 "ID='" + employeeID + '\'' +
                 '}';
     }
+
+    public void reviewResponse(String question,  String response) {
+
+    }
 }
