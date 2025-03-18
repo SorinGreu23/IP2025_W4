@@ -22,7 +22,7 @@ public class BankCustomer extends Person{
     }
 
     public void askQuesstion(String question){
-        System.out.print("Client " + getFirstName() + " " + getLastName() + " intreaba: " + question);
+        System.out.print("Client " + getFirstName() + " " + getLastName() + "\nIntrebare: " + question);
 
         String response = ai.generateResponse(question);
 

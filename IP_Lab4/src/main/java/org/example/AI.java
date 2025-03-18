@@ -45,7 +45,7 @@ public class AI{
             response = "Îmi pare rău, nu am înțeles întrebarea. Puteți reformula?";
         }
 
-        System.out.println("IA generează răspunsul: " + response);
+        System.out.println("\nIA generează răspunsul: " + response);
         return response;
     }
 
